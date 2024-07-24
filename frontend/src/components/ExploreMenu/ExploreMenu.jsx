@@ -7,7 +7,7 @@ const ExploreMenu = ({category,setCategory}) => {
   const {menu_list} = useContext(StoreContext);
   
   return (
-    <div className='explore-menu' id='explore-menu'>
+    <div className='explore-menu' id='explore-menu'> 
     <h1>Explore Our Products</h1>
     <p className='explore-menu-text'>Discover our extensive range of top-quality Apple products and accessories. Our goal is to provide you with the latest technology and exceptional customer service, enhancing your digital lifestyle with every purchase.
     </p>
