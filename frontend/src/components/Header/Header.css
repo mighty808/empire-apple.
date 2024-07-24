@@ -41,11 +41,13 @@
     }
     .header-contents{
         max-width: 45%;
+        bottom: 55%;
     }
 }
 @media(max-width:750px){
     .header-contents{
         max-width: 55%;
+        bottom: 70%;
     }
     .header-contents p{
        display: none;
