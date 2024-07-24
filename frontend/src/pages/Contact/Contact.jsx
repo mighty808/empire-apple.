@@ -6,8 +6,7 @@ const Contact = () => {
     <section className="contact-form">
       <h1 className="heading">Get In Touch!</h1>
       <p className="para">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor eos
-        inventore omnis aliquid rerum alias molestias.
+        Reach out to us to enquire about any product and locate us to get your product
       </p>
 
       <div className="contactForm">
