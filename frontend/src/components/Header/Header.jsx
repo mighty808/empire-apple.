@@ -8,7 +8,7 @@ const Header = () => {
         <>
         
         <img className='header' src={assets.header_image} alt="" />
-        <div className='header'>
+        <div>
             <div className='header-contents'>
             <h2>Experience the Best Smartphones to Purchase</h2>
             

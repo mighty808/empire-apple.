@@ -1,7 +1,6 @@
 .header{
     height: 34vw;
     margin: 30px auto;
-    background: url('header_image.jpg') no-repeat;
     background-size:contain;
     position: relative;
     border-radius: 30px;
@@ -13,8 +12,8 @@
     align-items: start;
     gap: 1.5vw;
     max-width: 50%;
-    bottom: 10%;
-    left: 6vw;
+    bottom: 20%;
+    left: 15vw;
     animation: fadeIn 3s;
 }
 .header-contents h2{
