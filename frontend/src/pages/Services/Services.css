@@ -74,3 +74,27 @@
 .sect-column .img2 {
     object-fit: contain;
 }
+
+.service-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+
+.service-grid .grid-item img{
+    width: 100%;
+}
+
+.service-label{
+    text-align: center;
+    font-size: 2rem;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 3rem;
+}

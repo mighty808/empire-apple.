@@ -6,7 +6,7 @@ const Contact = () => {
     <section className="contact-form">
       <h1 className="heading">Get In Touch!</h1>
       <p className="para">
-        Reach out to us to enquire about any product and locate us to get your product
+        Reach out to us to enquire about any product and locate us to get your product !
       </p>
 
       <div className="contactForm">
